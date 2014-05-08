@@ -17,11 +17,11 @@ public class ShowArraylish {
 /****************************** Show Stack ******************************/
 		ArrayListStack stk = new ArrayListStack();
 		System.out.println(">>>>>>> Show Stack <<<<<<<");
-		stk.push('A');
-		stk.push('B');
-		stk.push('C');
-		stk.push('D');
-		stk.push('E');
+		stk.push("A");
+		stk.push("B");
+		stk.push("C");
+		stk.push("D");
+		stk.push("E");
 		stk.Show_Stack();
 		System.out.println("pop = " + stk.pop());
 		stk.Show_Stack();
@@ -46,6 +46,12 @@ public class ShowArraylish {
 		q.Show_Queue();
 		System.out.println("First Data = " + q.peek());
 		System.out.println("Data in Queue = " + q.getSize());
+		System.out.println("");
+		
+		
+		
+		
+		
 	}
 
 }
