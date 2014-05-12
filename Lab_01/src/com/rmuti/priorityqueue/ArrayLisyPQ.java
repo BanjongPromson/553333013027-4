@@ -13,6 +13,7 @@ public class ArrayLisyPQ {
 		lst.remove(maxIndex());
 		return a;
 	}
+	@SuppressWarnings({ "rawtypes", "unchecked" })
 	private int maxIndex() {
 	       int max = 0;
 	       for (int i = 0; i < lst.getSize(); i++) {
