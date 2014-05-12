@@ -96,4 +96,9 @@ public class ArrayList {
 
 		return dat;
 	}
+
+	public Object get(int maxIndex) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
