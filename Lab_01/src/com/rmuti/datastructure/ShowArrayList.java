@@ -13,7 +13,6 @@ public class ShowArrayList {
 		System.out.println(lst);
 		System.out.println("\n");
 		
-		
 		ArrayListStack stk = new ArrayListStack();
 		stk.push('A');
 		stk.push('B');
@@ -25,7 +24,6 @@ public class ShowArrayList {
 		stk.Show_Stack();
 		System.out.println("\n");
 
-		
 		ArrayListQueue q = new ArrayListQueue();
 		q.enQueue("A");
 		q.enQueue("B");
