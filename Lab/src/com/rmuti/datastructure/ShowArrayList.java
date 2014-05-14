@@ -6,7 +6,7 @@ public class ShowArrayList {
 		ArrayList lst = new ArrayList();
 		lst.add("Y");
 		lst.add("O");
-		lst.add("O");
+		lst.add("O"); 
 		lst.add("0");
 		lst.add("2");
 		lst.add("7");

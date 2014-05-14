@@ -4,7 +4,7 @@ public class ArrayListQueue {
 
 	private ArrayList lst = new ArrayList();
 
-	public int getSize() {
+	public int getSize() { 
 		return lst.getSize() - 1;
 	}
 

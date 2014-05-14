@@ -5,7 +5,7 @@ public class ArrayListStack {
 	private ArrayList lst = new ArrayList();
 
 	public int getSize() {
-
+ 
 		return lst.getSize() - 1;
 	}
 
