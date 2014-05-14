@@ -3,7 +3,7 @@ package com.rmuti.priorityqueue;
 import com.rmuti.datastructure.ArrayList;
 
 
-public class ArrayLisyPQ {
+public class ArrayLisyPQ { 
 	ArrayList lst = new ArrayList();
 	public void enQueue(Object e) {
 		lst.add(e);

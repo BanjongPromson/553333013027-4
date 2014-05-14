@@ -2,7 +2,7 @@ package com.rmuti.priorityqueue;
 
 import java.util.Arrays;
 
-public class BinaryHeap {
+public class BinaryHeap { 
 	private Object elementData[] = new Object[1];
 	private int size = 0;
 

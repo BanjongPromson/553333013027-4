@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Show {
 	public static class ClassTest {
-
+ 
 		private static Scanner sc;
 
 		public static void main(String[] args) {
