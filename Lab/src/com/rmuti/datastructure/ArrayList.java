@@ -4,7 +4,7 @@ public class ArrayList {
 
 	private Object[] elementData = new Object[1];
 	private int size = 0;
-
+ 
 	public void addFirst(Object e) {
 
 		ensureCapacity(size + 1);
