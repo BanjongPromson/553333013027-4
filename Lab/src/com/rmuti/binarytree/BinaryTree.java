@@ -7,7 +7,7 @@ public class BinaryTree {
     TreeNode newNode;
     TreeNode parent;
     TreeNode NodeDelete;
-    char child;
+    char child;  
     int countLevel;
     //เมธอดตรวจสอบว่าทรีว่างเปล่าหรือไม่    
 

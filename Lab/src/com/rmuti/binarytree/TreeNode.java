@@ -6,7 +6,7 @@ public class TreeNode {
     protected TreeNode lChild;
     protected TreeNode rChild;
 
-    TreeNode() {
+    TreeNode() {  
     }
 
     TreeNode(int newItem) {
